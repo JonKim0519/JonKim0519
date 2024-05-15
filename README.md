@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=F5BCA9&height=300&section=header&text=Jongryul%20Kim&fontColor=424242)
+![header](https://capsule-render.vercel.app/api?type=wave&color=BBA1A1&height=300&section=header&text=Jongryul%20Kim&fontColor=424242)
 
 
 
