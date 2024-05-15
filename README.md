@@ -1,19 +1,12 @@
-### Hi there 👋
+### Hi👋, I'm Jongryul Kim.
+<h5> I'm a Data Scientist, Author, and Blogger.
+- 🔭 I’m currently working on building a Startup Company
+- 🌱 I’m currently learning Web design and LLM
+- 👯 I’m looking to collaborate on solving business problems, especially how to help retirees and seniors.
+- 🤔 I’m looking for help with the initial stage of building a business
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jongryul-kim/) or [Email](jongryul0519@gmail.com)
 
-<!--
-**JonKim0519/JonKim0519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
 <h2> 🚀 &nbsp;Tools that I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" alt="jira" width="45" height="45"/>
