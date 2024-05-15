@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=#F5BCA9&height=300&section=header&text=Jongryul%Kim)
+![header](https://capsule-render.vercel.app/api?type=wave&color=F5BCA9&height=300&section=header&text=Jongryul%Kim)
+
 
 
 ### Hi👋, I'm Jongryul Kim   \\
