@@ -2,10 +2,10 @@
 
 
 
-### Hi👋, I'm Jongryul Kim   \\
-<h5> I'm a Data Scientist, Author, and Blogger.   \\
-<h5> - 🔭 I’m currently working on building a Startup Company   \\
-<h5> - 🌱 I’m currently learning Web design and LLM   \\
+### Hi👋, I'm Jongryul Kim
+<h5> I'm a Data Scientist, Author, and Blogger.</h5>
+- 🔭 I’m currently working on building a Startup Company.
+<h5> - 🌱 I’m currently learning Web design and LLM.
 <h5> - 👯 I’m looking to collaborate on solving business problems, especially how to help retirees and seniors.
 <h5> - 🤔 I’m looking for help with the initial stage of building a business
 <h5> - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jongryul-kim/) or [Email](jongryul0519@gmail.com)
