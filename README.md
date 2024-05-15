@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=FF8000&height=300&section=header&text=Jongryul%Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=#F5BCA9&height=300&section=header&text=Jongryul%Kim&fontSize=70&fontColor=d6ace6)
 Jongryul Kim 
 
 
