@@ -1,15 +1,13 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 
 
-### Hi👋, I'm Jongryul Kim.
-<h5> I'm a Data Scientist, Author, and Blogger.
-- 🔭 I’m currently working on building a Startup Company
-- 🌱 I’m currently learning Web design and LLM
+### Hi👋, I'm Jongryul Kim   \\
+<h5> I'm a Data Scientist, Author, and Blogger.   \\
+- 🔭 I’m currently working on building a Startup Company   \\
+- 🌱 I’m currently learning Web design and LLM   \\
 - 👯 I’m looking to collaborate on solving business problems, especially how to help retirees and seniors.
 - 🤔 I’m looking for help with the initial stage of building a business
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jongryul-kim/) or [Email](jongryul0519@gmail.com)
-</p>
+
   
 <h2> 🚀 &nbsp;Tools that I Have Used and Learned</h2>
 <p align="left">
